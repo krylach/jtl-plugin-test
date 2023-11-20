@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jtlshopplugin>
+    <Name>Landswitcher</Name>
+    <Description></Description>
+    <Author>Anton Krylach</Author>
+    <URL>https://www.jtl-software.de</URL>
+    <XMLVersion>100</XMLVersion>
+    <ShopVersion>5.0.0-beta.3</ShopVersion>
+    <PluginID>jtl_landswitcher</PluginID>
+    <CreateDate>2023-11-18</CreateDate>
+    <Version>0.0.1-alfa</Version>
+    <Install>
+		<Adminmenu>
+            <Customlink sort="0">
+				<Name>Redirects</Name>
+			</Customlink>
+        </Adminmenu>
+	</Install>
+</jtlshopplugin>
